@@ -1,0 +1,43 @@
+@media only screen and (max-width: 600px) {
+   
+    .container_booking{
+        width: 500px !important;
+        height: 200px !important;
+        background-color: aliceblue;
+       
+        margin: -50px auto;
+        z-index: 999;
+        position: relative;
+     
+       
+    }
+  }
+
+
+.container_booking{
+    width: 1200px;
+    height: 100px;
+    background-color: aliceblue;
+   
+    margin: -50px auto;
+    z-index: 999;
+    position: relative;
+   
+   
+}
+.row_content{
+ width: 90%;
+ margin: auto;
+}
+
+.custom-select {
+    
+    height: 50px;
+    margin-top:25px !important;
+    border-radius: unset;
+}
+.btn{
+    width: 100%;
+    height: 50px;
+    margin-top:25px !important;
+}

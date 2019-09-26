@@ -1,0 +1,4 @@
+export const LOGIN_USER='LOGIN_USER'
+export const GET_LIST_USER='GET_LIST_USER'
+export const GET_LIST_MOVIES='GET_LIST_MOVIES'
+export const GET_DETAIL_MOVIE='GET_DETAIL_MOVIE'
